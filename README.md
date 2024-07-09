@@ -24,6 +24,18 @@ Este projeto visa criar um personagem de RPG completo gerando seu nome, históri
 - **Voz**: Um áudio gerado descrevendo a história do personagem com uma voz feminina e imponente.
 - **Avatar**: Uma imagem de um arqueira elfa.
 
+## Localização dos Arquivos Gerados
+
+Após a execução do código, os arquivos gerados são armazenados nos seguintes diretórios:
+
+- **Textos Gerados:** Os arquivos de texto com as histórias dos personagens são salvos no diretório `histories`. Cada arquivo é nomeado com o nome do personagem, seguido da extensão `.txt`.
+
+- **Áudios Gerados:** Os arquivos de áudio com as vozes dos personagens são salvos no diretório `voices`. Cada arquivo de áudio é nomeado com o nome do personagem, seguido da extensão `.mp3`.
+
+- **Imagens Geradas:** As imagens dos avatares dos personagens são salvas no diretório `images`. Cada imagem é nomeada com o nome do personagem, seguido da extensão `.png`.
+
+Certifique-se de verificar esses diretórios após a execução do código para acessar os arquivos gerados para cada personagem criado.
+
 ## 💭 Reflexão 
 Integrar tecnologias como GPT-3.5, TTS da OpenAI e DALL-E para criar um Gerador de Personagens de RPG foi uma experiência fascinante e esclarecedora. Além de permitir a criação de avatares visualmente expressivos, histórias emocionantes, vozes distintas e personagens com nomes exclusivos, essas ferramentas também abordaram questões técnicas como a integração de APIs e ajustes de parâmetros para garantir realismo e coerência nos resultados. O projeto enfatizou a importância de equilibrar a criatividade humana com a automação para garantir qualidade e originalidade, mostrando quais são as limitações da automação criativa e enfatizando a importância da criatividade humana no processo de criação digital.
 

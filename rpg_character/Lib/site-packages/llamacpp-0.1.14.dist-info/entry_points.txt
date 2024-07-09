@@ -1,0 +1,6 @@
+[console_scripts]
+llamacpp-convert = llamacpp.convert:main
+llamacpp-quantize = llamacpp.quantize:main
+llamacpp-cli = llamacpp.cli:run
+llamacpp-chat = llamacpp.chat:run
+
